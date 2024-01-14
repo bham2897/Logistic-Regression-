@@ -28,6 +28,7 @@ ROC-AUC Score
 Two primary visualizations are included:
 
 ROC Curve: Illustrates the model's diagnostic ability at various threshold settings for both training and test sets.
+
 Confusion Matrix: Displays the true positives, true negatives, false positives, and false negatives, providing insight into the model's classification accuracy.
 
 **Requirements**
